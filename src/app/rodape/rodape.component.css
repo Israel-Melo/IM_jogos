@@ -1,0 +1,48 @@
+.text-center {
+    background: rgb(156, 156, 158);  
+    width: 1300px;
+    margin: 0 auto;
+    height: 280px;
+    padding-top: 20px;
+
+}
+
+.col {
+
+    text-align: left;
+}
+
+.col img,
+svg {
+
+    justify-content: space-between;
+    vertical-align: middle;
+    height: 30px;
+    margin: 10px;
+
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+    padding: 0;
+
+
+}
+
+.col li {
+    list-style: none;
+    text-decoration: none;
+    text-align: left;
+
+}
+
+.col a {
+    color: rgb(2, 2, 2);
+    text-decoration: none;
+}
+
+.col a:hover {
+    color: rgb(224, 16, 16);
+
+}
